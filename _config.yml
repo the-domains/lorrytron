@@ -1,7 +1,7 @@
 name: Lorrytron
 favicon: null
-layout_spectrum: 0.6700324416160583
-typography_spectrum: 0.5474220898468047
+layout_spectrum: 0.98103
+typography_spectrum: 0.32845
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9925328022800386
-  lightness: 0.5289455940946937
-  saturation: 0.426770674996078
-  rhythmicContrast: 0.29299640469253063
+    - '#d5d2cf'
+    - '#e9853c'
+    - '#080506'
+    - '#126737'
+    - '#9a402a'
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
