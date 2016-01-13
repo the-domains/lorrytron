@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lorrytron]]></title>
+        <description><![CDATA[Lorrytron]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 01:12:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Farewell Starman]]></title>
+            <description><![CDATA[<h1>Farewell Starman</h1>]]></description>
+            <link>undefinedfarewell-starman/index.html</link>
+            <guid isPermaLink="false">51c1aca2-d057-4195-b2fd-1044d21a81fd</guid>
+            <pubDate>Wed, 13 Jan 2016 01:12:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
