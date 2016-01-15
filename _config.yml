@@ -1,28 +1,40 @@
-name: Lorrytron
-favicon: null
 layout_spectrum: 0.98103
-typography_spectrum: 0.32845
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#d5d2cf'
-    - '#e9853c'
-    - '#080506'
-    - '#126737'
-    - '#9a402a'
-  brandStrength: 0.6875
-  lightness: 0.75
-  saturation: 0.8125
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8125
+  lightness: 0.75
+  brandStrength: 0.530466
+  brandColors:
+    - '#916F64'
+    - '#312621'
+    - '#EAE8E8'
+    - '#204C77'
+    - '#D04043'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.32845
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Lorrytron
