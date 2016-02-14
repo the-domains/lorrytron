@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lorrytron]]></title>
         <description><![CDATA[Lorrytron]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lorrytron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 01:12:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 11:55:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lorrytron/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Autumn is coming]]></title>
+            <description><![CDATA[<article><h1>Autumn is coming</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10ff025d-2436-42b7-b7ab-b11f7b7eefd4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lorrytron/autumn-is-coming/index.html</link>
+            <guid isPermaLink="false">bc08443d-cdf6-44f2-ba84-f56d57f1478e</guid>
+            <pubDate>Sun, 14 Feb 2016 11:54:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Farewell Starman]]></title>
-            <description><![CDATA[<h1>Farewell Starman</h1>]]></description>
-            <link>undefinedfarewell-starman/index.html</link>
+            <description><![CDATA[<article><h1>Farewell Starman</h1><p>I'm not a true Bowie fan, but like many, I think everyone has heard and experienced many of his creations in one way or another - whether through his music, films or otherwise. As news of his death filters through the media, we're currently being inundated with many of those memories which I find very interesting reading, listening and watching. </p></article>]]></description>
+            <link>https://thegrid.ai/lorrytron/farewell-starman/index.html</link>
             <guid isPermaLink="false">51c1aca2-d057-4195-b2fd-1044d21a81fd</guid>
             <pubDate>Wed, 13 Jan 2016 01:12:15 GMT</pubDate>
         </item>
