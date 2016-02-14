@@ -1,8 +1,7 @@
-layout_spectrum: 0.98103
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Lorrytron
+favicon: null
+layout_spectrum: 0.63426
+typography_spectrum: 0.32845
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8125
-  lightness: 0.75
-  brandStrength: 0.530466
   brandColors:
     - '#916F64'
     - '#312621'
     - '#EAE8E8'
     - '#204C77'
     - '#D04043'
+  brandStrength: 0.530466
+  lightness: 0.75
+  saturation: 0.8125
   rhythmicContrast: 0.5
-typography_spectrum: 0.32845
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Lorrytron
+purpose: []
