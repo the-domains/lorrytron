@@ -4,8 +4,15 @@
         <description><![CDATA[Lorrytron]]></description>
         <link>https://thegrid.ai/lorrytron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 03:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 23:32:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lorrytron/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is full life cycle planning - great work Apple!]]></title>
+            <description><![CDATA[<article><h1>This is full life cycle planning - great work Apple!</h1><p>Marking Earth Day, Apple on Friday debuted a new TV commercial, using Siri to promote its custom-designed recycling robot - Liam - and its branding as an environmentally-responsible company. The 24-second spot shows Siri running on an iPhone held by a Liam unit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11d943fb8e88641ed90b80ec4562cf94fadcb02b.jpg"></article>]]></description>
+            <link>http://iphone.appleinsider.com/articles/16/04/22/siri-liam-star-in-apples-new-earth-day-tv-ad</link>
+            <guid isPermaLink="false">b0192ac6-dbd4-436b-9c81-a048741e1b1e</guid>
+            <pubDate>Fri, 22 Apr 2016 23:32:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5278090e-1113-4fde-9df1-b15fbb69877d.jpg">]]></description>
@@ -14,18 +21,18 @@
             <pubDate>Wed, 06 Apr 2016 03:26:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>HEADING</p>]]></description>
-            <link>https://thegrid.ai/lorrytron/heading/index.html</link>
-            <guid isPermaLink="false">7302a2ef-2187-4a01-a565-0625af930fe3</guid>
-            <pubDate>Wed, 06 Apr 2016 03:06:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[HEADING]]></title>
             <description><![CDATA[<article><h1>HEADING</h1><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dbf6d34443a89feee528bd9dc70c78f313bff02.jpg"></article>]]></description>
             <link>https://thegrid.ai/lorrytron/heading/index.html</link>
             <guid isPermaLink="false">dd9764dc-1975-4df3-b84f-62e5417df334</guid>
             <pubDate>Wed, 06 Apr 2016 03:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>HEADING</p>]]></description>
+            <link>https://thegrid.ai/lorrytron/heading/index.html</link>
+            <guid isPermaLink="false">7302a2ef-2187-4a01-a565-0625af930fe3</guid>
+            <pubDate>Wed, 06 Apr 2016 03:06:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
