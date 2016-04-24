@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://slate.adobe.com/cp/Lt1w4/'
 inLanguage: ca
 keywords: []
 description: Graphic Designer + Studio Manager
-datePublished: '2016-04-24T02:45:00.967Z'
-dateModified: '2016-04-24T02:43:55.273Z'
+datePublished: '2016-04-24T03:41:36.756Z'
+dateModified: '2016-04-24T03:39:01.200Z'
 author:
   - name: ''
     url: ''
@@ -22,7 +22,7 @@ publisher:
   domain: slate.adobe.com
   url: 'https://slate.adobe.com'
   favicon: 'https://d6uhzlpot4xwe.cloudfront.net/runtime/1.17/images/favicon.ico'
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
