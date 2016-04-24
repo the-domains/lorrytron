@@ -2,34 +2,24 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://slate.adobe.com/cp/Lt1w4/'
-inLanguage: ca
+inLanguage: null
 keywords: []
-description: Graphic Designer + Studio Manager
-datePublished: '2016-04-24T05:34:01.863Z'
-dateModified: '2016-04-24T05:33:43.854Z'
-author:
-  - name: ''
-    url: ''
+description: Lawrence Fung
+datePublished: '2016-04-24T07:23:05.204Z'
+dateModified: '2016-04-24T07:22:40.754Z'
 title: ''
-app_links: []
-sourcePath: _posts/2016-04-24-lawrence-fung.md
-related: []
-published: true
+author: []
 authors: []
 publisher:
-  name: Adobe Slate
-  domain: slate.adobe.com
-  url: 'https://slate.adobe.com'
-  favicon: 'https://d6uhzlpot4xwe.cloudfront.net/runtime/1.17/images/favicon.ico'
-starred: true
-_context: 'http://schema.org'
-_type: MediaObject
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+sourcePath: _posts/2016-04-24-lawrence-fung.md
+published: true
+_type: Blurb
 
 ---
-## Lawrence Fung
-
-[Graphic Designer + Studio Manager][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6014068def93142b8d2e129593b13c72654ace50.jpg)
-
-[0]: null
+Lawrence Fung
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e22d4cac-4ab0-466a-aeb2-8433c5c4c6b6.jpg)
