@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://slate.adobe.com/cp/Lt1w4/'
 inLanguage: ca
 keywords: []
 description: Graphic Designer + Studio Manager
-datePublished: '2016-04-24T02:39:44.006Z'
-dateModified: '2016-04-24T02:39:31.710Z'
+datePublished: '2016-04-24T02:45:00.967Z'
+dateModified: '2016-04-24T02:43:55.273Z'
 author:
   - name: ''
     url: ''
@@ -30,5 +30,6 @@ _type: MediaObject
 # [Lawrence Fung][0]
 
 [Graphic Designer + Studio Manager][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9161ec8d-2c36-4bf6-9109-23f28b10e535.jpg)
 
 [0]: null
