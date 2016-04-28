@@ -1,7 +1,7 @@
 name: Lorrytron
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.32845
+layout_spectrum: 1
+typography_spectrum: 0.64852
 collections:
   - index:
       path: /
